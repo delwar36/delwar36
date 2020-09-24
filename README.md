@@ -40,7 +40,7 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 <!--![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)-->
 ![badge-windows](https://img.shields.io/badge/os-windows-0bbf44?style=for-the-badge&logo=windows&logoColor=white&labelColor=21223e)
 ![badge-linux](https://img.shields.io/badge/os-linux-0bbf44?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
-![badge-vscode](https://img.shields.io/badge/editor-vscode-`0bbf44?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-0bbf44?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 ![badge-androidstudio](https://img.shields.io/badge/editor-android_studio-0bbf44?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=21223e)
 
 <!--
