@@ -8,7 +8,7 @@
   <a href="https://www.fb.com/delwarh.543"><img height="30" src="https://i.imgur.com/xZy8vkQ.png"></a>
 </p>
 
-# Hi there <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Bangladesh, living in Sylhet and currently self employed.
 
