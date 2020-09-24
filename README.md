@@ -1,5 +1,3 @@
-I followed 
-https://github.com/shuhanmirza 
 
 
 [![Header]()](https://github.com/delwar36)
@@ -29,7 +27,6 @@ My name is Md Felwar Hossain and I'm a **software engineer**. I'm from Banglades
 <!-- 
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 -->
-![badge-hlf][hyperledger-fabric-badge]
 ![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
 
@@ -43,7 +40,6 @@ My name is Md Felwar Hossain and I'm a **software engineer**. I'm from Banglades
 ![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
-![badge-avr][atmel-studio-badge]
 ![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 
 
