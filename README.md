@@ -18,7 +18,7 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
 ![badge-java](https://img.shields.io/badge/code-java-0bbf44?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
-![badge-C++](https://img.shields.io/badge/code-c++-0bbf44?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
+![badge-C++](https://img.shields.io/badge/code-c++-0bbf44?style=for-the-badge&logo=&logoColor=white&labelColor=21223e)
 ![badge-shell](https://img.shields.io/badge/shell-bash-0bbf44?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-0bbf44?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
 ![badge-dart](https://img.shields.io/badge/code-dart-0bbf44?style=for-the-badge&logo=dart&logoColor=white&labelColor=21223e)
@@ -30,6 +30,10 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 ![badge-android](https://img.shields.io/badge/framework-android-0bbf44?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 ![badge-flutter](https://img.shields.io/badge/framework-flutter-0bbf44?style=for-the-badge&logo=flutter&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/framework-node_js-0bbf44?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
+
+
+![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
+![badge-api](https://img.shields.io/badge/api-Rest_Api-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-0bbf44?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-0bbf44?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
