@@ -10,7 +10,7 @@
 
 # Hi there <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Md Felwar Hossain and I'm a **software engineer**. I'm from Bangladesh, living in Sylhet and currently working at InnovexIT.
+My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Bangladesh, living in Sylhet and currently working at InnovexIT.
 
 ![Profile views](https://gpvc.arturio.dev/delwar36)
 
