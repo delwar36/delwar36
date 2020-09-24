@@ -47,12 +47,12 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 ## 👨‍💻 Projects
 ### SUSTcast [Online Radio Station] 📻
 
-<a align="center" href="https://github.com/sustcast/sustcast-core-v0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>
-<a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>  
+<!--<a align="center" href="https://github.com/sustcast/sustcast-core-v0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
+</a>-->
+<!--<a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
+</a>  -->
 <!--
 ### Blockchain 🌐-->
 <!--
@@ -86,9 +86,9 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 ## &#x1f4c8; GitHub Stats
 
 <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwar36&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwar36&hide=html,makefile&bg_color=21223e&title_color=0bbf44&text_color=fff&count_private=true&langs_count=5" />
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=delwar36&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=delwar36&bg_color=21223e&title_color=0bbf44&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
 
 <!-- 
