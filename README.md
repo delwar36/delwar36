@@ -1,6 +1,6 @@
 
 
-[![Header](https://lh3.googleusercontent.com/proxy/e6ZAjtnDOR7qwyBkOHJ-ejf6iBeyelmNGGua65LdNYct_ZqHI8MXz2q5yWclr6XIbMVhKZjhGK9kqO9l)](https://github.com/delwar36)
+[![Header](https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg)](https://github.com/delwar36)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-delwar-hossain-khokon-858a47147"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
