@@ -1,12 +1,10 @@
-<!-- I followed 
-https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and https://github.com/shuhanmirza 
+I followed 
+https://github.com/shuhanmirza 
 
-detailed link is below
--->
-[![Header](https://i.imgur.com/Q6hni2u.gif)](https://github.com/delwar36)
+
+[![Header]()](https://github.com/delwar36)
 
 <p align="center">
-  <!--<a href="https://dev.to/shuhanmirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/dev.png"></a>-->
   <a href="https://www.linkedin.com/in/shuhan-mirza"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
   <a href="mailto:shuhan.mirza@gmail.com"><img height="30" src="https://i.imgur.com/78azQZd.png"></a>
   <a href="https://www.buymeacoffee.com/shuhanmirza"><img height="30" src="https://i.imgur.com/xfv1dZ5.png"></a>
@@ -16,18 +14,18 @@ detailed link is below
 
 # Hi there <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Blockchain**! Love to **automate** everything! I'm from Bangladesh, living in Dhaka and currently working at Progoti Systems Limited.
+My name is Md Felwar Hossain and I'm a **software engineer**. I'm from Bangladesh, living in Sylhet and currently working at InnovexIT.
 
-![Profile views](https://gpvc.arturio.dev/shuhan)
+![Profile views](https://gpvc.arturio.dev/delwar36)
 
 ## ⚙️ Technologies & Tools
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
 ![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
-![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
+![badge-C++](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
-![badge-golang](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
-![badge-arduino](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
+![badge-dart](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
+![badge-c](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 <!-- 
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 -->
@@ -37,11 +35,11 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-mongodb](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
 ![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
   
 
-![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
+<!--![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)-->
 ![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
