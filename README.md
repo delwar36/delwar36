@@ -16,32 +16,32 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 
 ## ⚙️ Technologies & Tools
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
-![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
-![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
-![badge-C++](https://img.shields.io/badge/code-c++-f6c819?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
-![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
-![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
-![badge-dart](https://img.shields.io/badge/code-dart-f6c819?style=for-the-badge&logo=dart&logoColor=white&labelColor=21223e)
-![badge-c](https://img.shields.io/badge/code-c-f6c819?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
-![badge-php](https://img.shields.io/badge/code-php-f6c819?style=for-the-badge&logo=php&logoColor=white&labelColor=21223e)
+![badge-java](https://img.shields.io/badge/code-java-0bbf44?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
+![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
+![badge-C++](https://img.shields.io/badge/code-c++-0bbf44?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
+![badge-shell](https://img.shields.io/badge/shell-bash-0bbf44?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
+![badge-javascript](https://img.shields.io/badge/code-javascript-0bbf44?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-dart](https://img.shields.io/badge/code-dart-0bbf44?style=for-the-badge&logo=dart&logoColor=white&labelColor=21223e)
+![badge-c](https://img.shields.io/badge/code-c-0bbf44?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
+![badge-php](https://img.shields.io/badge/code-php-0bbf44?style=for-the-badge&logo=php&logoColor=white&labelColor=21223e)
 <!-- 
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 -->
-![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
-![badge-flutter](https://img.shields.io/badge/framework-flutter-f6c819?style=for-the-badge&logo=flutter&logoColor=white&labelColor=21223e)
-![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
+![badge-android](https://img.shields.io/badge/framework-android-0bbf44?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
+![badge-flutter](https://img.shields.io/badge/framework-flutter-0bbf44?style=for-the-badge&logo=flutter&logoColor=white&labelColor=21223e)
+![badge-node](https://img.shields.io/badge/framework-node_js-0bbf44?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
 
-![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
-![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
-![badge-mongodb](https://img.shields.io/badge/database-mongodb-f6c819?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
-![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
+![badge-firebase](https://img.shields.io/badge/database-firebase-0bbf44?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
+![badge-sqlite](https://img.shields.io/badge/database-sqlite-0bbf44?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
+![badge-mongodb](https://img.shields.io/badge/database-mongodb-0bbf44?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
+![badge-mysql](https://img.shields.io/badge/database-mysql-0bbf44?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
   
 
 <!--![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)-->
-![badge-windows](https://img.shields.io/badge/os-windows-f6c819?style=for-the-badge&logo=windows&logoColor=white&labelColor=21223e)
-![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
-![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
-![badge-androidstudio](https://img.shields.io/badge/editor-android_studio-f6c819?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=21223e)
+![badge-windows](https://img.shields.io/badge/os-windows-0bbf44?style=for-the-badge&logo=windows&logoColor=white&labelColor=21223e)
+![badge-linux](https://img.shields.io/badge/os-linux-0bbf44?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-`0bbf44?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-androidstudio](https://img.shields.io/badge/editor-android_studio-0bbf44?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=21223e)
 
 <!--
 ## 👨‍💻 Projects
