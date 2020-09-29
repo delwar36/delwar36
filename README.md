@@ -48,7 +48,7 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 ![badge-androidstudio](https://img.shields.io/badge/editor-android_studio-0bbf44?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=21223e)
 
 
-## 👨‍💻 Projects
+## 🚀💻 Projects
 ###  Android Apps 📱
 
 <a align="center" href="https://github.com/delwar36/Coupon-Center">
@@ -69,25 +69,12 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=Shop-Management-Flutter&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a>
 
-### NodeJS Web Projects 💻
+### Web Projects 💻
 
 <a align="center" href="https://github.com/delwar36/SUST-Viatual-Classroom">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=SUST-Viatual-Classroom&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<!--<a align="center" href="https://github.com/shuhanmirza/High-Way-Driver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=High-Way-Driver&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>-->
-
-<!--<a align="center" href="https://github.com/darkhorse-lab/CryptoCurrency-Details-live-webapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkhorse-lab&repo=CryptoCurrency-Details-live-webapp&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>-->
-
-<!--<a align="center" href="https://github.com/shuhanmirza/facebook_comment_automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=facebook_comment_automation&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>-->
-
-<!-- subsel.org -->
 
 
 ## &#x1f4c8; GitHub Stats
@@ -98,19 +85,6 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=delwar36&bg_color=21223e&title_color=0bbf44&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
 
-<!-- 
-### wakatime stats
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=delwar36&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
--->
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=delwar36&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
