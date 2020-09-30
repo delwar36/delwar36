@@ -55,8 +55,8 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=Coupon-Center&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a>
 
-<a align="center" href="https://github.com/delwar36/android_student_teacher_appoinment_booking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=android_student_teacher_appoinment_booking&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
+<a align="center" href="https://github.com/delwar36/Student-Teacher-Appointment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=Student-Teacher-Appointment&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a> 
 
 <a align="center" href="https://github.com/delwar36/P2PChat">
@@ -72,7 +72,7 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 ### Web Projects 💻
 
 <a align="center" href="https://github.com/delwar36/SUST-Viatual-Classroom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=SUST-Viatual-Classroom&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=SUST-Viatual-Classroom&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a>
 
 
