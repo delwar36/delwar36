@@ -3,9 +3,9 @@
 <!--[![Header](https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg)](https://github.com/delwar36)-->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-delwar-hossain-khokon-858a47147"><img height="30" color= blue src="https://i.imgur.com/nbDVVx2.png"></a>
-  <a href="mailto:delwarh543@gmail.com"><img height="30" src="https://i.imgur.com/78azQZd.png"></a>
-  <a href="https://www.fb.com/delwarh.543"><img height="30" src="https://i.imgur.com/xZy8vkQ.png"></a>
+  <a href="https://www.linkedin.com/in/mohammad-delwar-hossain-khokon-858a47147"><img height="30" color= blue src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+  <a href="mailto:delwarh543@gmail.com"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a>
+  <a href="https://www.fb.com/delwarh.543"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png"></a>
 </p>
 
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
