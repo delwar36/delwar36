@@ -14,8 +14,7 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 
 ![Profile views](https://gpvc.arturio.dev/delwar36)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339)](https://git.io/streak-stats)
 
 ## ⚙️ Technologies & Tools
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
