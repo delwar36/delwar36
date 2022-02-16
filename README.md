@@ -63,10 +63,13 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=P2PChat&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a> 
 
-### Flutter Package 📱💻
+### Flutter Packages 📱💻
 
-<a align="center" href="https://github.com/delwar36/overlapped_carousel">
+<a align="center" href="https://pub.dev/packages/overlapped_carousel">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=overlapped_carousel&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
+</a>
+<a align="center" href="https://pub.dev/packages/splash_route">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=splash_route&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a>
 
 ### Web Projects 💻
