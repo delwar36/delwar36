@@ -27,9 +27,11 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 <!-- 
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 -->
-![badge-android](https://img.shields.io/badge/framework-android-0bbf44?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
+![badge-android](https://img.shields.io/badge/sdk-android-0bbf44?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
+![badge-node](https://img.shields.io/badge/runtime-node_js-0bbf44?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
+![badge-react](https://img.shields.io/badge/library-react_js-0bbf44?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
 ![badge-flutter](https://img.shields.io/badge/framework-flutter-0bbf44?style=for-the-badge&logo=flutter&logoColor=white&labelColor=21223e)
-![badge-node](https://img.shields.io/badge/framework-node_js-0bbf44?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
+![badge-next](https://img.shields.io/badge/framework-next_js-0bbf44?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
 
 
 ![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
