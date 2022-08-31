@@ -3,7 +3,7 @@
 <!--[![Header](https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg)](https://github.com/delwar36)-->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-delwar-hossain-khokon-858a47147"><img height="30" color= blue src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+  <a href="https://www.linkedin.com/in/mohammad-delwar-hossain-khokon-858a47147"><img height="30" color= blue src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
   <a href="mailto:delwarh543@gmail.com"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a>
   <a href="https://www.fb.com/delwarh.543"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png"></a>
 </p>
@@ -19,7 +19,6 @@ My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Banglades
 ![badge-java](https://img.shields.io/badge/code-java-0bbf44?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-C++](https://img.shields.io/badge/code-c++-0bbf44?style=for-the-badge&logo=&logoColor=white&labelColor=21223e)
-![badge-shell](https://img.shields.io/badge/shell-bash-0bbf44?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-0bbf44?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
 ![badge-dart](https://img.shields.io/badge/code-dart-0bbf44?style=for-the-badge&logo=dart&logoColor=white&labelColor=21223e)
 ![badge-c](https://img.shields.io/badge/code-c-0bbf44?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
