@@ -8,9 +8,9 @@
   <a href="https://www.fb.com/delwarh.543"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png"></a>
 </p>
 
-# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px"> Welcome to my Github Profile.
 
-My name is Md Delwar Hossain and I'm a **software engineer**. I'm from Bangladesh, living in Sylhet and currently self employed.
+My name is Md Delwar Hossain and I'm a **Software Engineer**. I'm from Bangladesh, living in Sylhet and currently working on my start-up **InnovexIT**. I have hand-on experience on several sectors of computer science.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339)
 
