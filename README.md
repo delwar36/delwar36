@@ -14,6 +14,17 @@ My name is **Md Delwar Hossain** and I'm a **Software Engineer**. I'm from Bangl
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339)
 
+
+## &#x1f4c8; GitHub Stats
+
+<p>
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwar36&hide=html,makefile&bg_color=21223e&title_color=0bbf44&text_color=fff&count_private=true&langs_count=5" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=delwar36&bg_color=21223e&title_color=0bbf44&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+</p>
+
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=delwar36&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+
 ## ⚙️ Technologies & Tools
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
 ![badge-java](https://img.shields.io/badge/code-java-0bbf44?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
@@ -78,17 +89,3 @@ My name is **Md Delwar Hossain** and I'm a **Software Engineer**. I'm from Bangl
 <a align="center" href="https://github.com/delwar36/SUST-Viatual-Classroom">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=delwar36&repo=SUST-Viatual-Classroom&bg_color=21223e&title_color=0bbf44&text_color=fff&icon_color=fff" />
 </a>
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwar36&hide=html,makefile&bg_color=21223e&title_color=0bbf44&text_color=fff&count_private=true&langs_count=5" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=delwar36&bg_color=21223e&title_color=0bbf44&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-</p>
-
-
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=delwar36&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
-
