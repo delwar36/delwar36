@@ -12,15 +12,13 @@
 
 My name is **Md Delwar Hossain** and I'm a **Software Engineer**. I'm from Bangladesh, living in Sylhet and currently working on my start-up **InnovexIT**. I have hand-on experience on several sectors of computer science.
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339)
-
 
 ## &#x1f4c8; GitHub Stats
 
 <p>
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwar36&hide=html,makefile&bg_color=21223e&title_color=0bbf44&text_color=fff&count_private=true&langs_count=5" />
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwar36&hide=html,makefile&bg_color=142339&title_color=0bbf44&text_color=fff&count_private=true&langs_count=5" />
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=delwar36&bg_color=21223e&title_color=0bbf44&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+  <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=delwar36&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3700&background=142339" />
 </p>
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=delwar36&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
