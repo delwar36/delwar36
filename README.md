@@ -10,7 +10,7 @@
 
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px"> Welcome to my Github Profile.
 
-My name is **Md Delwar Hossain** and I'm a **Software Engineer**. I'm from Bangladesh, living in Sylhet and currently working on my start-up **InnovexIT**. I have hand-on experience on several sectors of computer science.
+My name is **Md Delwar Hossain** and I'm a **Software Engineer**. I'm from Bangladesh, living in Dhaka and currently working on **InnovexIT**. I have hand-on experience on several sectors of computer science.
 
 
 ## &#x1f4c8; GitHub Stats
