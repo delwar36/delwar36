@@ -46,11 +46,17 @@ My name is **Md Delwar Hossain** and I'm a **Senior Software Engineer**. I'm fro
 
 ![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
 ![badge-api](https://img.shields.io/badge/api-Rest_Api-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
+![badge-redis](https://img.shields.io/badge/cache-redis-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
+
+
+![badge-docker](https://img.shields.io/badge/container-docker-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
+![badge-kubernates](https://img.shields.io/badge/orchestration-kubernates-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-0bbf44?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-0bbf44?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
 ![badge-mongodb](https://img.shields.io/badge/database-mongodb-0bbf44?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
 ![badge-mysql](https://img.shields.io/badge/database-mysql-0bbf44?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
+![badge-postgresql](https://img.shields.io/badge/database-postgresql-0bbf44?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
   
 
 <!--![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)-->
