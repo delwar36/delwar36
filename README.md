@@ -51,6 +51,7 @@ My name is **Md Delwar Hossain** and I'm a **Senior Software Engineer**. I'm fro
 
 ![badge-docker](https://img.shields.io/badge/container-docker-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
 ![badge-kubernates](https://img.shields.io/badge/orchestration-kubernates-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
+![badge-aws](https://img.shields.io/badge/cloud-aws-0bbf44?style=for-the-badge&logo=web&logoColor=white&labelColor=21223e)
 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-0bbf44?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-0bbf44?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
